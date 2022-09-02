@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 
+=======
+//NOVA ALTERÇAO GIAN FRANCO
+>>>>>>> gian
 public static void Fibonacci(int numberElements)
+//GIAN FRANCO
 {            
     int[] arreglo = new int[numberElements];
     arreglo[0] = 0;
