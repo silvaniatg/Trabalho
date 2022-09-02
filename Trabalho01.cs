@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-
-=======
-//NOVA ALTERÇAO GIAN FRANCO
->>>>>>> gian
 public static void Fibonacci(int numberElements)
 //GIAN FRANCO
 {            
