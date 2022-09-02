@@ -1,4 +1,4 @@
-//Silvania
+
 public static void Fibonacci(int numberElements)
 {            
     int[] arreglo = new int[numberElements];
