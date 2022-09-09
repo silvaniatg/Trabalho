@@ -1,20 +1,19 @@
 //Silvania
-public static void Fibonacci(int numberElements)
+namespace HelloWorld
+{
+    class OlaMundo
+     {         
+        static void Main(string[] args)
+        {
+            //Cometário Novo
+            Console.WriteLine("Ola Alunos INF-0099 !!!");
+            Console.WriteLine("Boa Noite");
+            Console.WriteLine("Alterações com VS Code");
+            //Teste
 
-//GIAN FRANCO
 
-
-{            
-    int[] arreglo = new int[numberElements];
-    arreglo[0] = 0;
-    arreglo[1] = 1;
- 
-    for(int i = 2; i < numberElements; i++)
-    {
-        arreglo[i] = arreglo[i - 1] + arreglo[i - 2];
+        } 
     }
- 
-    Console.WriteLine(string.Join(",",arreglo));
 }
 
 
